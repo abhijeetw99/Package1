@@ -1,7 +1,10 @@
 {
-    "name": "abhijeet1122/testpackage1122",
-    "description": "test",
+    "name": "abhijeetw1122/package-1122",
+    "description": "Test package",
     "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
     "authors": [
         {
             "name": "abhijeet",
@@ -9,5 +12,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-0": {
+            "package": "src/"
+        }
+    }
 }
