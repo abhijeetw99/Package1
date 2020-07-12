@@ -1,15 +1,13 @@
 {
-    "name": "abhijeetw1122/package-1122",
-    "description": "Test package",
+    "name": "abhijeet1122/testpackage1122",
+    "description": "test",
     "type": "library",
-    "require": {
-        "php": "^7.0"
-    },
     "authors": [
         {
             "name": "abhijeet",
             "email": "abhijeetw99@gmail.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
