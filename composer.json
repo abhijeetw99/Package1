@@ -1,0 +1,16 @@
+{
+    "name": "abhijeetw1122/package-1122",
+    "description": "Test package",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "OMNI CORP",
+    "authors": [
+        {
+            "name": "abhijeet",
+            "email": "abhijeetw99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
